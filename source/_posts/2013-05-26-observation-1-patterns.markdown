@@ -4,11 +4,10 @@ title: "Observation 1: Patterns"
 image: observation_1.jpg
 date: 2013-05-26 12:25
 comments: true
-categories: 
+categories: YTTP Yoga Training Observations Patterns 
 ---
 ##Sun, May 26 10:00am 90 min Fire + Water ##
-
-The room was warm, but not hot. I noticed that everyone seemed very focused, almost serious. Having a chance to see how so many different bodies do this practice was good for me as it relates to my practice and to understanding how other people's bodies work into the poses. There were a lot of interesting 'trends', or similarities in many of the bodies. Here are some of the things I noticed.
+The room was warm, but not hot. I noticed that everyone seemed very focused, almost serious. <!-- more -->Having a chance to see how so many different bodies do this practice was good for me as it relates to my practice and to understanding how other people's bodies work into the poses. There were a lot of interesting 'trends', or similarities in many of the bodies. Here are some of the things I noticed.
 
 * Many people, women in particular, actually push their chest's forward and almsost lean their upper body over their toes.
 * Twisting in the hips to compensate for a lack of thoracic flexibility is probably the most common 'cheat'
