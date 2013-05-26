@@ -4,7 +4,7 @@ title: "Pranayama Dialogue: Evolution"
 date: 2013-05-26 13:35
 image: pranayama_v1.2_cards.png
 comments: true
-categories: pranayama, YTTP Yoga Training Dialogues
+categories: pranayama YTTP Yoga Training Dialogues
 ---
 
 It didn't take long before I realized that my dialogue was much too wordy. Also, it didn't carry much flow. I've worked through and thought long and hard about how to tackle this section, and I came up with a three part strategy:
